@@ -1,4 +1,4 @@
-# 🕰️ Kinetic Digit Clock
+# 🕰️ Mechanical Digit Clock
  
 A fully mechanical HH:MM:SS wall clock. Six independent stepper-driven digit wheels — one per character — each physically referenced by its own Hall sensor, driven by a custom PLC-style non-blocking control architecture running on an ESP32-S3.
  
