@@ -2,9 +2,10 @@
  
 A fully mechanical HH:MM:SS wall clock. Six independent stepper-driven digit wheels — one per character — each physically referenced by its own Hall sensor, driven by a custom PLC-style non-blocking control architecture running on an ESP32-S3.
  
-![Clock](images/clock.png)
-![Clock front](images/clock_front.png)
+![Clock_front](images/Clock_front.png)
+![Clock back](images/Clock_back.png)
  
+![Prototype_OneMotor](images/Prototype_OneMotor.png)
 <!-- Add your own build photos to an images/ folder to replace the placeholders above. -->
  
 ## 🚀 The Engineering Behind It
