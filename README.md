@@ -2,8 +2,8 @@
 
 A mechanical HH:MM:SS clock. One stepper-driven digit wheel per character, each physically referenced by its own Hall sensor, driven by a custom PLC-style non-blocking control architecture running on an ESP32-S3.
 
-![Clock front](images/clock_front.png)
-![Clock_back](images/clock_back.png)
+![Clock front](images/Clock_front.png)
+![Clock_back](images/Clock_back.png)
 ![Prototype](images/Prototype_OneMotor.png)
 ![PCB](images/PCB.png)
 
