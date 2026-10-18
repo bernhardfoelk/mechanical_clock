@@ -7,6 +7,7 @@ A mechanical HH:MM:SS clock. One stepper-driven digit wheel per character, each 
 ![Clock_back](images/Clock_back.png)
 ![Prototype](images/Prototype_OneMotor.png)
 ![PCB](images/PCB.png)
+![Aufbau](images/Clock_Aufbau.png)
 
 <!-- Add your own build photos to an images/ folder to replace the placeholders above. -->
 
