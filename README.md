@@ -1,6 +1,7 @@
 # 🕰️ Mechanical Digit Clock
 
 A mechanical HH:MM:SS clock. One stepper-driven digit wheel per character, each physically referenced by its own Hall sensor, driven by a custom PLC-style non-blocking control architecture running on an ESP32-S3.
+> **Work in progress:** one of six digit wheels is running; the other five are being built.
 
 ![Clock front](images/Clock_front.png)
 ![Clock_back](images/Clock_back.png)
