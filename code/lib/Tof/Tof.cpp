@@ -36,19 +36,6 @@ void Tof::run() {
         lxQ = false;
         lxRunning = false; // abgelaufen oder nie gestartet
     }
-
-    /*
-    if (!lxIN) {
-        if ((millis() - llStartTime) >= llPT) {
-            lxQ = false;
-        } else {
-            lxQ = true;
-        }
-    } else {
-        lxQ = lxIN;
-        llStartTime = millis();
-    }
-    */
 }
 
 bool Tof::Q() const {
